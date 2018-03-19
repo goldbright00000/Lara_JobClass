@@ -21,7 +21,7 @@
 		"creativeorange/gravatar": "~1.0",
 		"cviebrock/eloquent-sluggable": "^4.0",
 		"graham-campbell/flysystem": "^4.0.0",
-		"guzzlehttp/guzzle": "6.*",
+		"guzzlehttp/guzzle": "^6.3",
 		"ignited/laravel-omnipay": "2.*",
 		"intervention/image": "^2.3",
 		"jackiedo/dotenv-editor": "1.*",
